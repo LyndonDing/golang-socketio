@@ -3,7 +3,7 @@ package gosocketio
 import (
 	"fmt"
 	protocol "github.com/graarh/golang-socketio/protocol"
-	"github.com/graarh/golang-socketio/transport"
+	transport "github.com/graarh/golang-socketio/transport"
 	"strconv"
 )
 
